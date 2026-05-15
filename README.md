@@ -95,28 +95,9 @@ O trabalho seguiu o framework **CRISP-DM** (Cross Industry Standard Process for 
 
 ---
 
-## 🗂️ Estrutura do Repositório
-
-```
-├── data/
-│   ├── raw/              # Dados brutos coletados do FBref
-│   └── processed/        # Dados tratados e padronizados
-├── analysis/
-│   ├── defenders.R       # ACP — Defensores
-│   ├── midfielders.R     # ACP — Meio-campistas
-│   └── forwards.R        # ACP — Atacantes
-├── outputs/
-│   ├── figures/          # Gráficos e matrizes de correlação
-│   └── scores/           # Rankings gerados pela ACP
-└── TCC_FranciscoIago.pdf # Documento completo do trabalho
-```
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **R** — análise estatística e visualizações
-- **Excel** — coleta e organização inicial dos dados
 
 ---
 

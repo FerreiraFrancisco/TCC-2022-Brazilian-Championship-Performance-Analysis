@@ -72,18 +72,20 @@ O trabalho seguiu o framework **CRISP-DM** (Cross Industry Standard Process for 
 
 ## 📈 Principais Resultados
 
+### **CP1** (variância geral): representa uma média de desempenho comum a todos os defensores
+
 ### Defensores
-- **CP1** (variância geral): representa uma média de desempenho comum a todos os defensores
-- **CP2** (fatores determinantes): evidenciou a importância dos **laterais** — jogadores com maior participação em cruzamentos, passes que geram chutes e domínio no terço ofensivo se destacaram
-- Defensores do G6 demonstraram desempenho defensivo superior (bloqueios de chute, duelos aéreos), enquanto no Z4 a participação ofensiva dos laterais foi mais determinante
+
+- Foi evidenciada a importância dos **laterais** — jogadores com maior participação em cruzamentos, passes que geram chutes e domínio no terço ofensivo se destacaram.
+- Defensores do G6 demonstraram desempenho defensivo superior (bloqueios de chute, duelos aéreos), enquanto no Z4 a participação ofensiva dos laterais foi mais determinante.
 
 ### Meio-campistas
-- A qualidade de passe e a capacidade de finalização foram os fatores que mais diferenciaram os jogadores
-- Variáveis como passes que geram chutes (P21), cruzamentos (P22) e passes que movem a bola em direção ao gol (PO22) foram os principais indicadores de qualidade
+- A qualidade de passe e a capacidade de finalização foram os fatores que mais diferenciaram os jogadores.
+- Variáveis como passes que geram chutes (P21), cruzamentos (P22) e passes que movem a bola em direção ao gol (PO22) foram os principais indicadores de qualidade.
 
 ### Atacantes
-- Jogadores do G6 apresentaram superioridade clara nas variáveis ofensivas (gols, finalizações)
-- Atacantes do Z4 mostraram maior participação defensiva, sugerindo um perfil de jogo distinto
+- Jogadores do G6 apresentaram superioridade clara nas variáveis ofensivas (gols, finalizações).
+- Atacantes do Z4 mostraram maior participação defensiva, sugerindo um perfil de jogo distinto.
 
 ### 🏆 Top 10 Destaques (exemplos)
 
